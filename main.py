@@ -7,3 +7,4 @@ print("Next , the room grows still as everyone closes their eyes for a few minut
 print("Then the fellows open their notebooks to write their morning pages, letting their thoughts flow freely")
 print("When the journaling is done the staff shares the day's schedule so everyone knows which classes are coming up")
 print ("The fellows nod and take notes, feeling calm and ready for what's next.")
+print("With clear minds and full hearts,they head into the day prepared to learn and grow.")
