@@ -1,9 +1,9 @@
-# Code your solutions in this file
 print("written by: elhadj and sanaa") 
-print("Title: First Day Assignment")
+print("Title: Mindful Morning")
 print ("setting:marcy")
 print ("every morning at marcy lab school begins wiht mindful morning , a quiet start before the day")
 print("The fellows gather together and each one sets an intention for the day, like be curious")
 print("Next , the room grows still as everyone closes their eyes for a few minutes of meditation.")
 print("Then the fellows open their notebooks to write their morning pages, letting their thoughts flow freely")
 print("When the journaling is done the staff shares the day's schedule so everyone knows which classes are coming up")
+print ("The fellows nod and take notes, feeling calm and ready for what's next.")
